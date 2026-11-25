@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Raw media and datasets (never upload)
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.mp4
+*.avi
+*.mov
+*.mkv
+raw-data/
+data/
